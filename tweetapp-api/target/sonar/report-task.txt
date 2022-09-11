@@ -1,0 +1,6 @@
+projectKey=com.tweetapp:tweetapp-api
+serverUrl=http://localhost:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://localhost:9000/dashboard?id=com.tweetapp%3Atweetapp-api
+ceTaskId=AYL3DpH1Nnb_aS9tTox2
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYL3DpH1Nnb_aS9tTox2
